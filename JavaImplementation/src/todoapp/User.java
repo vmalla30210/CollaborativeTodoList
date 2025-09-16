@@ -1,4 +1,3 @@
-// User.java
 package todoapp;
 
 import java.util.ArrayList;
@@ -19,4 +18,5 @@ public class User {
     
     @Override
     public String toString() { return name; }
+
 }
