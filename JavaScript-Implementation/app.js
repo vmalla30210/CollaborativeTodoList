@@ -1,5 +1,3 @@
-// Placeholder for app.js
-// app.js
 const readline = require('readline');
 const TodoStore = require('./store');
 
