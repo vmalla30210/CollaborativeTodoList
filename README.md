@@ -11,26 +11,6 @@ This repository contains two implementations of a collaborative to-do list appli
 - Persistent data storage
 - Concurrent access support
 
-## Repository Structure
-
-CollaborativeTodoList/
-├── Java-Implementation/
-│ ├── src/
-│ │ └── todoapp/
-│ │ ├── User.java
-│ │ ├── Task.java
-│ │ ├── TodoManager.java
-│ │ └── TodoApp.java
-├── JavaScript-Implementation/
-│ ├── task.js
-│ ├── store.js
-│ ├── app.js
-│ └── package.json
-├── Comparison-Report.md
-└── README.md
-
-
-
 ## Running the Java Implementation
 
 1. Navigate to the Java-Implementation directory
@@ -53,14 +33,10 @@ npm install
 3. Run the application:
 node app.js
 
-angelscript
-
 
 ## Implementation Comparison
 
 This project demonstrates how the same application can be implemented in two different programming languages with different paradigms. The Java implementation leverages static typing and thread-based concurrency, while the JavaScript implementation uses asynchronous programming and events.
-
-For a detailed analysis of the differences between implementations, see the [Comparison Report](Comparison-Report.md).
 
 ## Usage
 
@@ -75,4 +51,3 @@ Both implementations provide a command-line interface with the following options
 7. Change User
 8. Exit
 
-Follow the on-screen prompts to navigate the application.
