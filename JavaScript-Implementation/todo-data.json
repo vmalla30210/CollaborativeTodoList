@@ -1,0 +1,12 @@
+{
+  "tasks": [],
+  "users": [
+    "admin",
+    "madhu"
+  ],
+  "categories": [
+    "Work",
+    "Personal"
+  ],
+  "nextId": 1
+}

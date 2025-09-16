@@ -1,0 +1,13 @@
+
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Collaborative To-Do List",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["todo", "collaborative"],
+  "author": "",
+  "license": "MIT"
+}
