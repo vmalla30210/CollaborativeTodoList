@@ -1,5 +1,3 @@
-// Placeholder for task.js
-// task.js
 class Task {
   constructor(id, title, desc, due, category) {
     this.id = id;
