@@ -1,4 +1,3 @@
-// Task.java
 package todoapp;
 
 import java.io.Serializable;
@@ -38,4 +37,5 @@ public class Task implements Serializable {
         return "#" + id + ": " + title + " (" + (done ? "Done" : "Pending") + ")" +
                " - " + category + " - Assigned to: " + (user != null ? user.getName() : "None");
     }
+
 }
