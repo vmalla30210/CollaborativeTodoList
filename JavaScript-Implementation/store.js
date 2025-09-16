@@ -1,5 +1,3 @@
-// Placeholder for store.js
-// store.js
 const fs = require('fs/promises');
 const path = require('path');
 const EventEmitter = require('events');
