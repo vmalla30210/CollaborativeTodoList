@@ -1,4 +1,3 @@
-// TodoManager.java
 package todoapp;
 
 import java.io.*;
@@ -171,4 +170,5 @@ public class TodoManager {
             System.out.println("Error loading data: " + e.getMessage());
         }
     }
+
 }
